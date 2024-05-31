@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @duccom
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Fintech
-- 📫 Reach me at ducggw@gmail.com
+- 👋 Hi
 
 <!---
 duccom/duccom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
